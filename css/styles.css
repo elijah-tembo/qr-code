@@ -45,7 +45,7 @@ body{
 
 img{
     border-radius: 15px;
-    align-items: center;
+    margin: auto;
     width: 90%;
     height: 90%;
     margin-top: 8px;
