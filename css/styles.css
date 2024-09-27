@@ -9,9 +9,7 @@ body{
     text-align: center;
     margin: auto;
     border-radius: 15px;
-    width: 50%;
-    max-height: 80%;
-    /* padding-top: 1px; */
+    width: 22%;
     padding-bottom: 20px;
 }
 
@@ -44,9 +42,9 @@ img{
 }
 
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 340px) {
     .container{
-        width: 25%;
+        max-width: 80%;
         padding-top: 1px;
         padding-bottom: 20px;
     }
