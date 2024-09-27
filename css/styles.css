@@ -2,6 +2,7 @@ body{
     background-color:hsl(212, 33%, 83%);
     padding: 100px;
     padding-top: 30%;
+    max-width: 100%;
 }
 .container{
     background-color: hsl(0, 0%, 100%);
