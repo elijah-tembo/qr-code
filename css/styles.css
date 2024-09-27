@@ -1,5 +1,6 @@
 body{
     background-color:hsl(212, 33%, 83%);
+    display: flex;
     padding: 100px;
     padding-top: 30%;
     max-width: 100%;
@@ -44,7 +45,7 @@ img{
 
 @media screen and (min-width: 340px) {
     .container{
-        max-width: 80%;
+        width: 100%;
         padding-top: 1px;
         padding-bottom: 20px;
     }
