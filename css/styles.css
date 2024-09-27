@@ -7,6 +7,12 @@ body{
     width: 100vw;
     height: 100vh;
 }
+
+*  {
+    box-sizing: border-box;
+    font-family: "Outfit", sans-serif;
+}
+
 .container{
     background-color: hsl(0, 0%, 100%);
     max-width: 20rem;
