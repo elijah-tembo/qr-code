@@ -28,6 +28,7 @@ body{
 
 .header{
     color: hsl(218, 44%, 22%);
+    padding: 5px 16px 0px 16px;
     font-weight: 700;
     font-size: 22px;
     line-height: 120%;
@@ -43,7 +44,7 @@ body{
 
 .texts{
     margin: auto;
-    padding: 0 16px;
+    /* padding: 0 16px; */
     text-align: center;
     flex-direction: column;
     gap: 16px;
