@@ -50,8 +50,8 @@ body{
 img{
     flex-direction: column;
     gap: 24px;
-    width: 288px;
-    height: 288px;
+    width: 280px;
+    height: 280px;
     border-radius: 10px;
     display: flex;
     align-self: center;
