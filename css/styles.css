@@ -13,6 +13,7 @@ body{
     flex-direction: column;
     width: 100vw;
     height: 100vh;
+    padding-top: 110px;
 }
 .container{
     background-color: hsl(0, 0%, 100%);
@@ -22,13 +23,6 @@ body{
     display: flex;
     flex-direction: column;
 }
-
-.div-image{
-    display: flex;
-    flex-direction: column;
-    gap: 24px;
-}
-
 .header{
     color: hsl(218, 44%, 22%);
     padding: 5px 16px 0px 16px;
@@ -54,6 +48,8 @@ body{
 }
 
 img{
+    flex-direction: column;
+    gap: 24px;
     width: 288px;
     height: 288px;
     border-radius: 10px;
