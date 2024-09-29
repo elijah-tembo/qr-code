@@ -1,3 +1,10 @@
+*  {
+    box-sizing: border-box;
+    font-family: "Outfit", sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
 body{
     background-color:hsl(212, 33%, 83%);
     display: flex;
@@ -7,14 +14,6 @@ body{
     width: 100vw;
     height: 100vh;
 }
-
-*  {
-    box-sizing: border-box;
-    font-family: "Outfit", sans-serif;
-    margin: 0px;
-    padding: 0px;
-}
-
 .container{
     background-color: hsl(0, 0%, 100%);
     max-width: 20rem;
@@ -42,11 +41,11 @@ body{
     font-size: 15px;
     line-height: 140%;
     letter-spacing: 0.2px;
+    margin: 10px;
 }
 
 .texts{
     margin: auto;
-    /* padding: 0 16px; */
     text-align: center;
     flex-direction: column;
     gap: 16px;
