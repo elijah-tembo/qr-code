@@ -19,6 +19,8 @@ body{
     max-width: 20rem;
     border-radius: 20px;
     align-self: center;
+    display: flex;
+    flex-direction: column;
 }
 
 .div-image{
