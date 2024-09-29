@@ -51,11 +51,18 @@ body{
 }
 
 img{
-    border-radius: 15px;
+    /* border-radius: 15px;
     margin: auto;
     width: 90%;
     height: 90%;
-    margin-top: 8px;
+    margin-top: 8px; */
+
+    width: 288px;
+    height: 288px;
+    border-radius: 10px;
+    display: flex;
+    align-self: center;
+    margin: 16px;
 }
 
 
